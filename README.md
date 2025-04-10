@@ -1,4 +1,4 @@
-- 👋 Hi, I’m BrightForson.
+- 👋 Hi, I’m Bright Forson.
 - 👀 I’m interested in creating AI powered web applications.
 - 🌱 I’m currently learning the basics of full stack development.
 - 💞️ I’m looking to collaborate on projects focused on AI-powered web applications, cloud-based solutions, and full-stack development. Whether it’s building scalable, responsive websites or exploring the latest in cloud technologies, I’m excited to work with others who share a passion for creating innovative and efficient.
